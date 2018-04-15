@@ -4,6 +4,8 @@
 ## **Usage** ##
 ![image](https://image.ibb.co/dfdi4c/ezgif_com_video_to_gif_2.gif)
 
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Copy%20button-green.svg?style=flat )]( https://android-arsenal.com/details/1/6914 )
+
 
 **Gradle**
 
